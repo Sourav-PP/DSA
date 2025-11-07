@@ -44,4 +44,4 @@ It serves as a personal collection of problems, solutions, and concepts that I w
 
 ---
 
-⭐ *Feel free to check my progress or suggest improvements!*" > README.md
+⭐ *Feel free to check my progress or suggest improvements!*
